@@ -1,0 +1,15 @@
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/leozhitosmac/Downloads/True Coders/repos/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
